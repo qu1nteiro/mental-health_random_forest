@@ -1,12 +1,12 @@
 # Predicting Mental Health Treatment in the Tech Workplace
 
-This repository contains a series of machine learning models designed to predict whether an individual in the tech industry has sought treatment for a mental health condition. Using data from a 2014 survey, we explore, clean, and model the dataset to identify key predictive factors.
+This repository contains a series of machine learning models designed to predict whether an individual in the tech industry has sought treatment for a mental health condition. Using data from a 2014 survey, we explore, clean, and model the dataset to identify key predictive factors. This project was developed as part of the AIA course unit - University of Aveiro.
 
 The project progresses from a simple interpretable model to more complex ensemble and deep learning methods, demonstrating a complete machine learning workflow.
 
 ## Dataset
 
-The analysis is based on the `survey.csv` file, which contains responses from the 2014 OSMI (Open Sourcing Mental Illness) survey. It includes 1259 responses with 27 columns covering demographic information, work-related factors, and attitudes towards mental health in the workplace.
+The analysis is based on the `survey.csv` file, which contains responses from the 2014 OSMI (Open Sourcing Mental Illness) survey, available at Kagle. It includes 1259 responses with 27 columns covering demographic information, work-related factors, and attitudes towards mental health in the workplace.
 
 The target variable for this analysis is `treatment`, a binary feature indicating whether the respondent has sought mental health treatment.
 
